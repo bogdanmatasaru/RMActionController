@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		22858832233227A900EF44E6 /* RMActionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2285881B233227A900EF44E6 /* RMActionController.m */; };
 		22858833233227A900EF44E6 /* RMActionControllerTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2285881D233227A900EF44E6 /* RMActionControllerTransition.m */; };
-		22858834233227A900EF44E6 /* RMActionControllerTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285881E233227A900EF44E6 /* RMActionControllerTransition.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		22858834233227A900EF44E6 /* RMActionControllerTransition.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285881E233227A900EF44E6 /* RMActionControllerTransition.h */; };
 		22858835233227A900EF44E6 /* RMGroupedAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 22858820233227A900EF44E6 /* RMGroupedAction.m */; };
 		22858836233227A900EF44E6 /* RMScrollableGroupedAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 22858821233227A900EF44E6 /* RMScrollableGroupedAction.m */; };
 		22858837233227A900EF44E6 /* RMGroupedAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 22858822233227A900EF44E6 /* RMGroupedAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -18,9 +18,9 @@
 		2285883A233227A900EF44E6 /* RMAction+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 22858826233227A900EF44E6 /* RMAction+Private.h */; };
 		2285883B233227A900EF44E6 /* RMActionController+Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 22858827233227A900EF44E6 /* RMActionController+Private.h */; };
 		2285883C233227A900EF44E6 /* UIView+RMActionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22858829233227A900EF44E6 /* UIView+RMActionController.m */; };
-		2285883D233227A900EF44E6 /* NSProcessInfo+RMActionController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285882A233227A900EF44E6 /* NSProcessInfo+RMActionController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2285883D233227A900EF44E6 /* NSProcessInfo+RMActionController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285882A233227A900EF44E6 /* NSProcessInfo+RMActionController.h */; };
 		2285883E233227A900EF44E6 /* NSProcessInfo+RMActionController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2285882B233227A900EF44E6 /* NSProcessInfo+RMActionController.m */; };
-		2285883F233227A900EF44E6 /* UIView+RMActionController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285882C233227A900EF44E6 /* UIView+RMActionController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2285883F233227A900EF44E6 /* UIView+RMActionController.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285882C233227A900EF44E6 /* UIView+RMActionController.h */; };
 		22858840233227A900EF44E6 /* RMAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 2285882E233227A900EF44E6 /* RMAction.m */; };
 		22858841233227A900EF44E6 /* RMImageAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 2285882F233227A900EF44E6 /* RMImageAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		22858842233227A900EF44E6 /* RMAction.h in Headers */ = {isa = PBXBuildFile; fileRef = 22858830233227A900EF44E6 /* RMAction.h */; settings = {ATTRIBUTES = (Public, ); }; };
