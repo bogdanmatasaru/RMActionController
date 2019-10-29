@@ -150,13 +150,6 @@
     
     [actionButton addConstraints:[NSLayoutConstraint constraintsWithVisualFormat:@"V:[actionButton(height)]" options:0 metrics:@{@"height": @([NSProcessInfo runningAtLeastiOS9] ? 55 : 44)} views:NSDictionaryOfVariableBindings(actionButton)]];
     
-    if(self.style == RMActionStyleDestructive) {
-        [actionButton setTitleColor:[UIColor redColor] forState:UIControlStateNormal];
-    } else if (self.style == RMActionStyleCancel) {
-        [actionButton setTitleColor:[UIColor colorWithRed:0 green:94 blue:184 alpha:1]
-                           forState:UIControlStateNormal];
-    }
-    
     return actionButton;
 }
 
